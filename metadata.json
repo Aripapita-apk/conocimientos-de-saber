@@ -1,0 +1,6 @@
+{
+  "name": "Dashboard de Gestión de Procesos - SENA",
+  "description": "Dashboard interactivo para caracterización SIPOC, mapa de procesos, matriz de interacción, ciclo PHVA, tríada de desempeño y evaluación basada en el Anexo 1.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
